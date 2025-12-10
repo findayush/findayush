@@ -5,7 +5,7 @@
 
 - 📝 I write articles on [https://medium.com/@3ayush4](https://medium.com/@3ayush4)
 
-- 💬 Ask me about **JS, React, Redux, CSS, HTML, Web Development, Progressive Web App**
+- 💬 Ask me about **JS, React, Redux, CSS, HTML, Web Development, Progressive Web App, Performance, Accessibility**
 
 - 📫 How to reach me **3ayush4@gmail.com**
 
