@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">Software Engineer with 10 years of experience, specializing in Front end Technologies</h3>
+<h3 align="center">Software Engineer with 10 years of experience, specializing in Front-end Technologies</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/findayush?tab=repositories](https://github.com/findayush?tab=repositories)
 
