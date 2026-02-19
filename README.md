@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, React, Redux, GraphQL, TypeScript, NodeJS, NextJS, Webpack, CSS, HTML, Web Development, Progressive Web App, Performance, Accessibility**
 
-- 📫 How to reach me **3ayush4@gmail.com**
+- 📫 Reach me at **3ayush4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
