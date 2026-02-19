@@ -5,7 +5,7 @@
 
 - 📝 I write articles on [https://medium.com/@3ayush4](https://medium.com/@3ayush4)
 
-- 💬 Ask me about **JavaScript, React, Redux, GraphQL, TypeScript, NodeJS, NextJS, Webpack, CSS, HTML, Web Development, Progressive Web App, Performance, Accessibility**
+- 💬 Ask me about **JavaScript, React, Redux, GraphQL, TypeScript, NodeJS, NextJS, Webpack, CSS, HTML, Web Development, Progressive Web App, Performance, Accessibility, Gen AI**
 
 - 📫 Reach me at **3ayush4@gmail.com**
 
